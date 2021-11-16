@@ -1,2 +1,2 @@
-# curso_html
+# Curso HTML5 CSS3 JavaScript
  Curso HTML Curso em Video
